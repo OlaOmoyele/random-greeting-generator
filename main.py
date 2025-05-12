@@ -1,6 +1,6 @@
 import random
 
-word_choices: list = ['hello', 'goodbye', 'ni hao', 'ohayo']
+word_choices: list = ['hello', 'goodbye', 'ni hao', 'ohayo', 'shalom']
 
 greeting: str = random.choice(word_choices)
 
